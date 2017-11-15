@@ -156,9 +156,6 @@ cga_init(void)
 	crt_buf = (uint16_t*) cp;
 	crt_pos = pos;
 }
-
-
-
 static void
 cga_putc(int c)
 {
