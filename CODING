@@ -9,7 +9,6 @@ We have the following conventions in our code:
 
 * One space after keywords "if", "for", "while", "switch".
   For example, if (x) not if(x).
-
 * Space before braces.
   For example, if (x) { not if (x){.
 
