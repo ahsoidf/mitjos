@@ -11,7 +11,6 @@ We have the following conventions in our code:
   For example, if (x) not if(x).
 * Space before braces.
   For example, if (x) { not if (x){.
-
 * Function names are all lower-case separated by underscores.
 
 * Beginning-of-line indentation via tabs, not spaces.
